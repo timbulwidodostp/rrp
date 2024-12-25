@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rrp': Rescaled Regression Prediction (RRP) using two samples Use rrp With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rrp.ado
+f rrp.sthlp
