@@ -1,6 +1,8 @@
 # rrp
 Rescaled Regression Prediction (RRP) using two samples Use rrp With STATA 18
 
+https://www.youtube.com/watch?v=Hlw7S6p9OLw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
